@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+h1, h2, h3 {
+    color: #0056b3;
+}
+code {
+    background: #f8f9fa;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
