@@ -34,13 +34,13 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 - Explore Swagger UI and ReDoc.
 
 #### Day 2: Handling Requests
-**Key Topics**:
+**🔎 Key Topics**:
 - HTTP methods: GET, POST, PUT, DELETE.
 - Path parameters.
 - Query parameters.
 
 #### Day 3: Request & Response Models
-**Key Topics**:
+**🔎 Key Topics**:
 - Pydantic for validation.
 - Response models for structured data.
 
