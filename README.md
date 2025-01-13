@@ -58,7 +58,7 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 - Using `HTTPException` and custom handlers.
 
 #### Day 7: Practice Day
-**Project**:
+**🧪 Project**:
 - Build a **To-Do App** with CRUD operations.
 
 ---
@@ -96,7 +96,7 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 - Streaming files with `StreamingResponse`.
 
 #### Day 7: Practice Day
-**Project**:
+**🧪 Project**:
 - Extend the **To-Do App** with authentication and file uploads.
 
 ---
@@ -127,7 +127,7 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 - Managing schema changes with Alembic.
 
 #### Day 7: Practice Day
-**Project**:
+**🧪 Project**:
 - Add a database with relationships to the **To-Do App**.
 
 ---
@@ -164,7 +164,7 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 - Monitor performance and logs.
 
 #### Day 7: Final Project
-**Final Project**:
+**🧪 Final Project**:
 - Build a complete **Employee Salary System** with authentication, database, and deployment.
 
 #### Day 8: Wrap-Up
