@@ -27,7 +27,7 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 ### Goal: Learn the foundation of FastAPI and build simple APIs.
 
 #### Day 1: Introduction to FastAPI
-**Key Topics**:
+**🔎 Key Topics**:
 - What is FastAPI?
 - Install FastAPI & Uvicorn.
 - Create your first FastAPI app.
@@ -45,16 +45,16 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 - Response models for structured data.
 
 #### Day 4: Dependency Injection
-**Key Topics**:
+**🔎 Key Topics**:
 - Reusable dependencies in FastAPI.
 
 #### Day 5: Response Handling
-**Key Topics**:
+**🔎 Key Topics**:
 - Custom HTTP responses and status codes.
 - Returning JSON, text, or files.
 
 #### Day 6: Error Handling
-**Key Topics**:
+**🔎 Key Topics**:
 - Using `HTTPException` and custom handlers.
 
 #### Day 7: Practice Day
@@ -68,31 +68,31 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 ### Goal: Add authentication, middleware, and advanced features.
 
 #### Day 1: Organize Routes
-**Key Topics**:
+**🔎 Key Topics**:
 - Use routers.
 - Tags, summaries, and documentation.
 
 #### Day 2: Authentication
-**Key Topics**:
+**🔎 Key Topics**:
 - Basic authentication.
 - JWT-based authentication.
 
 #### Day 3: Authorization
-**Key Topics**:
+**🔎 Key Topics**:
 - Role-based access control.
 - Protect routes using dependencies.
 
 #### Day 4: Middleware
-**Key Topics**:
+**🔎 Key Topics**:
 - Built-in and custom middleware.
 - Logging requests.
 
 #### Day 5: Background Tasks
-**Key Topics**:
+**🔎 Key Topics**:
 - Using `BackgroundTasks` for non-blocking operations.
 
 #### Day 6: Custom Responses
-**Key Topics**:
+**🔎 Key Topics**:
 - Streaming files with `StreamingResponse`.
 
 #### Day 7: Practice Day
@@ -106,24 +106,24 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 ### Goal: Connect and optimize the database with FastAPI.
 
 #### Day 1: SQLAlchemy Basics
-**Key Topics**:
+**🔎 Key Topics**:
 - Setup database connections.
 - Introduction to SQLAlchemy.
 
 #### Day 2: CRUD with SQLAlchemy
-**Key Topics**:
+**🔎 Key Topics**:
 - Define models and perform CRUD operations.
 
 #### Day 3: Relationships in SQLAlchemy
-**Key Topics**:
+**🔎 Key Topics**:
 - One-to-many and many-to-many relationships.
 
 #### Day 4: Async Database Queries
-**Key Topics**:
+**🔎 Key Topics**:
 - Asynchronous queries and `async/await` patterns.
 
 #### Day 5: Alembic for Migrations
-**Key Topics**:
+**🔎 Key Topics**:
 - Managing schema changes with Alembic.
 
 #### Day 7: Practice Day
@@ -137,29 +137,29 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 ### Goal: Prepare APIs for production and build a complete project.
 
 #### Day 1: Configuration Management
-**Key Topics**:
+**🔎 Key Topics**:
 - Use environment variables for secure settings.
 
 #### Day 2: Testing
-**Key Topics**:
+**🔎 Key Topics**:
 - Write unit and integration tests with pytest.
 - Test endpoints using FastAPI's test clients.
 
 #### Day 3: Asynchronous Tasks
-**Key Topics**:
+**🔎 Key Topics**:
 - Integrate Celery for background tasks.
 
 #### Day 4: Deployment
-**Key Topics**:
+**🔎 Key Topics**:
 - Deploy FastAPI with Uvicorn and Gunicorn.
 - Use Docker to containerize deployment.
 
 #### Day 5: API Documentation
-**Key Topics**:
+**🔎 Key Topics**:
 - Customize OpenAPI schema and documentation.
 
 #### Day 6: Performance Optimization
-**Key Topics**:
+**🔎 Key Topics**:
 - Add caching with Redis.
 - Monitor performance and logs.
 
@@ -168,5 +168,5 @@ Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 - Build a complete **Employee Salary System** with authentication, database, and deployment.
 
 #### Day 8: Wrap-Up
-**Key Topics**:
+**🔎 Key Topics**:
 - Review concepts and best practices.
