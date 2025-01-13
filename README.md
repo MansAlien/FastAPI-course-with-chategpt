@@ -1,161 +1,172 @@
-# FastAPI Learning Roadmap
-- :LiCalendar: **Duration:** 4 weeks ( 2 hours/day )
-<span style="color:red">hello </span>
-- :LiCheckSquare: **Goals:** Master FastAPI to build scalable, production-ready APIs
+# FastAPI Learning Roadmap 🚀
 
-### Quick Navigation
-- [[#<font color=7FFFD4> `ris:Flashlight` Week 1: FastAPI Basics</font>|Week 1: FastAPI Basics]]
-- [[#<font color=D2691E>`ris Star` Week 2 Advanced Topics</font>| Week 2: Advanced Topics]]
-- [[#<font color=6495ED>`ris Database2` Week 3 Database Intergration</font>| Week 3: Database Integration]]
-- [[#<font color=BA55D3>`ris Global` Week 4 Production & Deployment</font>| Week 4: Production & Deployment]]
+[![FastAPI](https://img.shields.io/badge/FastAPI-latest-brightgreen.svg)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-orange.svg)](https://www.uvicorn.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+Master FastAPI in 4 weeks to build scalable, production-ready APIs. 🌟
 
 ---
-###  <font color=7FFFD4> `ris:Flashlight` Week 1: FastAPI Basics</font> 
 
-[Week One](#<font color=7FFFD4> `ris:Flashlight` Week 1: FastAPI Basics</font>)
+## 📅 Duration: 4 weeks (2 hours/day)
 
-   `ris:Lightbulb` **Goal**: Learn foundation of FastAPI and build a simple APIs.
+## 🎯 Goals:
+- Master FastAPI to build scalable, production-ready APIs.
+
+### Quick Navigation
+- [📖 Week 1: FastAPI Basics](#-week-1-fastapi-basics)
+- [🚀 Week 2: Advanced Topics](#-week-2-advanced-topics)
+- [🗄️ Week 3: Database Integration](#-week-3-database-integration)
+- [🌐 Week 4: Production & Deployment](#-week-4-production--deployment)
+
+---
+
+## 📖 Week 1: FastAPI Basics
+
+### Goal: Learn the foundation of FastAPI and build simple APIs.
 
 #### Day 1: Introduction to FastAPI
-**:LiLink: Link:** [[day_1-introduction-to-fastapi]]
-
-`ris:Search` **Key Topics**:
-- What is FastAPI ?
+**Key Topics**:
+- What is FastAPI?
 - Install FastAPI & Uvicorn.
 - Create your first FastAPI app.
-- Explore swagger UI and ReDoc.
+- Explore Swagger UI and ReDoc.
 
 #### Day 2: Handling Requests
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - HTTP methods: GET, POST, PUT, DELETE.
-- path parameters.
-- query parameters.
+- Path parameters.
+- Query parameters.
 
 #### Day 3: Request & Response Models
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Pydantic for validation.
 - Response models for structured data.
 
 #### Day 4: Dependency Injection
-`ris:Search` **Key Topics**:
-- Reusable Dependencies in FastAPI
+**Key Topics**:
+- Reusable dependencies in FastAPI.
 
 #### Day 5: Response Handling
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Custom HTTP responses and status codes.
 - Returning JSON, text, or files.
 
 #### Day 6: Error Handling
-`ris:Search` **Key Topics**:
-- Using `HTTPExeption` and custom handlers.
+**Key Topics**:
+- Using `HTTPException` and custom handlers.
 
 #### Day 7: Practice Day
-`ris:TestTube` **Project**: 
+**Project**:
 - Build a **To-Do App** with CRUD operations.
 
 ---
 
-### <font color=D2691E>`ris:Star` Week 2: Advanced Topics</font>
-   `ris:Lightbulb` **Goal**: Add authentication, middleware, and advanced features.
+## 🚀 Week 2: Advanced Topics
+
+### Goal: Add authentication, middleware, and advanced features.
 
 #### Day 1: Organize Routes
-`ris:Search` **Key Topics**:
-- User routers.
-- Tags, summaries, and documentations.
+**Key Topics**:
+- Use routers.
+- Tags, summaries, and documentation.
 
 #### Day 2: Authentication
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Basic authentication.
 - JWT-based authentication.
 
 #### Day 3: Authorization
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Role-based access control.
 - Protect routes using dependencies.
 
 #### Day 4: Middleware
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Built-in and custom middleware.
-- Login requests.
+- Logging requests.
 
 #### Day 5: Background Tasks
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Using `BackgroundTasks` for non-blocking operations.
 
 #### Day 6: Custom Responses
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Streaming files with `StreamingResponse`.
 
 #### Day 7: Practice Day
-`ris:TestTube` **Project**: 
+**Project**:
 - Extend the **To-Do App** with authentication and file uploads.
 
 ---
 
-## <font color=6495ED>`ris:Database2` Week 3: Database Intergration</font>
-   `ris:Lightbulb` **Goal**: Connect and optimize database with FastAPI.
+## 🗄️ Week 3: Database Integration
+
+### Goal: Connect and optimize the database with FastAPI.
 
 #### Day 1: SQLAlchemy Basics
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Setup database connections.
 - Introduction to SQLAlchemy.
 
 #### Day 2: CRUD with SQLAlchemy
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Define models and perform CRUD operations.
 
 #### Day 3: Relationships in SQLAlchemy
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - One-to-many and many-to-many relationships.
 
 #### Day 4: Async Database Queries
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Asynchronous queries and `async/await` patterns.
 
 #### Day 5: Alembic for Migrations
-`ris:Search` **Key Topics**:
-- Managing schema changes with *Alembic*.
+**Key Topics**:
+- Managing schema changes with Alembic.
 
 #### Day 7: Practice Day
-`ris:TestTube` **Project**: 
+**Project**:
 - Add a database with relationships to the **To-Do App**.
 
 ---
 
-## <font color=BA55D3>`ris:Global` Week 4: Production & Deployment</font>
-   `ris:Lightbulb` **Goal**: Prepare APIs for production and build a complete project.
+## 🌐 Week 4: Production & Deployment
+
+### Goal: Prepare APIs for production and build a complete project.
 
 #### Day 1: Configuration Management
-`ris:Search` **Key Topics**:
-- Use environments variables for secure settings.
+**Key Topics**:
+- Use environment variables for secure settings.
 
 #### Day 2: Testing
-`ris:Search` **Key Topics**:
-- Write unit and integration tests with *pytest*.
+**Key Topics**:
+- Write unit and integration tests with pytest.
 - Test endpoints using FastAPI's test clients.
 
 #### Day 3: Asynchronous Tasks
-`ris:Search` **Key Topics**:
-- Integrate **Celery** for background tasks.
+**Key Topics**:
+- Integrate Celery for background tasks.
 
 #### Day 4: Deployment
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Deploy FastAPI with Uvicorn and Gunicorn.
 - Use Docker to containerize deployment.
 
 #### Day 5: API Documentation
-`ris:Search` **Key Topics**:
+**Key Topics**:
 - Customize OpenAPI schema and documentation.
 
-#### Day 6: Performance Optemization
-`ris:Search` **Key Topics**:
-- Add caching with **Redis**.
-- Monitor Performance and logs.
+#### Day 6: Performance Optimization
+**Key Topics**:
+- Add caching with Redis.
+- Monitor performance and logs.
 
 #### Day 7: Final Project
-`ris:TestTube` **Final Project**: 
+**Final Project**:
 - Build a complete **Employee Salary System** with authentication, database, and deployment.
 
 #### Day 8: Wrap-Up
-`ris:Search` **Key Topics**:
-- Review concepts and best practice.
+**Key Topics**:
+- Review concepts and best practices.
